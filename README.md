@@ -2,10 +2,6 @@
 
 Hello — I'm a software engineering student who loves anime, building things, and learning by doing. I keep my projects here on GitHub: small apps, embedded experiments, and course assignments that helped me grow as a developer.
 
-- Pronouns: he/him
-- Interests: anime, embedded systems, web development, algorithms
-- Currently: learning software engineering and working on side projects
-
 ---
 
 ## 🔭 Featured projects
@@ -28,11 +24,6 @@ Hello — I'm a software engineering student who loves anime, building things, a
 
 ---
 
-## 📈 GitHub stats
-
-![Tranquang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranquang2012&show_icons=true&theme=radical)
-
----
 
 ## 🎯 Goals
 
@@ -41,5 +32,3 @@ Hello — I'm a software engineering student who loves anime, building things, a
 - Improve problem solving and systems knowledge
 
 ---
-
-Thanks for visiting — feel free to browse the projects above. If you'd like the README tuned further (badges, language cards, animations to match OnDucPhat's style), I can add them next.
