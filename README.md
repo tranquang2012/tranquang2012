@@ -40,7 +40,7 @@ I am a software engineering student looking for a **Software Engineer Internship
 
 ### 🔭 Featured Projects
 
-*   **[Job Application Tracker](https://github.com/isys3461-2025c-samson-devision/Job-Application-)** – A microservices-based platform designed to organize and monitor the job application lifecycle.
+*   **[Job Tracker](https://github.com/isys3461-2025c-samson-devision/Job-Application-)** – A microservices-based platform designed to organize and monitor the job application lifecycle.
     *   **What I did:**
         *   Developed the Subscription and Application microservices using Node.js and TypeScript.
         *   Implemented event-driven communication between services using Apache Kafka and handled containerization via Docker.
