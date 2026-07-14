@@ -12,12 +12,8 @@ Hello — I'm a software engineering student who loves anime, building things, a
 
 ## 🔭 Featured projects
 
-- [tournament-organizer](https://github.com/tranquang2012/tournament-organizer) — A JavaScript app to organize tournaments and brackets. (Active project, MIT)
+- [tournament-organizer](https://github.com/tranquang2012/tournament-organizer) — A JavaScript app to organize tournaments and brackets.
 - [COSC2657-Hotel-Rental](https://github.com/tranquang2012/COSC2657-Hotel-Rental) — Java project for a hotel rental system (course project).
-- [EEET2490-Group-Project](https://github.com/tranquang2012/EEET2490-Group-Project) — C language group assignment and systems work.
-- [stopwatch-nuc140](https://github.com/tranquang2012/stopwatch-nuc140) — Embedded stopwatch implementation for the NUC140 board (forked/embedded experiment).
-- [this profile repo](https://github.com/tranquang2012/tranquang2012) — My GitHub profile configuration and README.
-
 ---
 
 ## 🛠️ Skills & tools
