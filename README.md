@@ -1,6 +1,4 @@
-# Hi there 👋 I'm Tranquangang
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Tranquang%20%40tranquang2012&fontSize=40)
+# Hi there 👋 I'm Trần Quang
 
 Hello — I'm a software engineering student who loves anime, building things, and learning by doing. I keep my projects here on GitHub: small apps, embedded experiments, and course assignments that helped me grow as a developer.
 
@@ -26,10 +24,7 @@ Hello — I'm a software engineering student who loves anime, building things, a
 
 ## 📫 Contact
 
-- GitHub: https://github.com/tranquang2012
-- Best way to reach me is via GitHub — open an issue in a repo or send a message.
-
-If you want a specific contact added (email, LinkedIn, Twitter), tell me and I'll add it.
+- Email: nauquang1204@gmail.com
 
 ---
 
