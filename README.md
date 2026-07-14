@@ -4,16 +4,16 @@ Hello — I'm a software engineering student who loves anime, building things, a
 
 ---
 
-## 🔭 Featured projects
+## 🔭 Academic projects
 
 - [tournament-organizer](https://github.com/tranquang2012/tournament-organizer) — A JavaScript app to organize tournaments and brackets.
-- [COSC2657-Hotel-Rental](https://github.com/tranquang2012/COSC2657-Hotel-Rental) — Java project for a hotel rental system (course project).
+- [Job Application]([https://github.com/tranquang2012/COSC2657-Hotel-Rental](https://github.com/isys3461-2025c-samson-devision/Job-Application-)) — TypeScript project for a job tracker.
 ---
 
 ## 🛠️ Skills & tools
 
-- Languages: Java, C, JavaScript, HTML/CSS
-- Areas: embedded systems, web/frontend, algorithms, university projects
+- Languages: Java, C, JavaScript, TypeScript, HTML/CSS
+- Areas: web/frontend, algorithms, university projects
 - Tools: Git, GitHub, VS Code, Node.js
 
 ---
